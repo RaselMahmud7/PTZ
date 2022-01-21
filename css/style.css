@@ -1,6 +1,7 @@
 /*  font-family: 'Alef', sans-serif;
-    font-family: 'Audiowide', cursive;
+font-family: 'Audiowide', cursive;
 font-family: 'Exo 2', sans-serif;
+font-family: 'Hind Siliguri', sans-serif;
 font-family: 'Orbitron', sans-serif;
 font-family: 'Yanone Kaffeesatz', sans-serif; */
 .nav-title{
@@ -16,4 +17,37 @@ font-family: 'Yanone Kaffeesatz', sans-serif; */
 .fas{
     margin-right: 3px;
     text-align: center;
+}
+
+.card-bg{
+background-color: #07223a;
+border: none;
+}
+.card-body{
+    font-family: 'Audiowide', cursive;
+}
+h2{
+    font-family: 'Orbitron', sans-serif;
+}
+.btn{
+    font-family: 'Exo 2', sans-serif;
+}
+/* Footer */
+footer {
+    background-color: #07223a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-family: 'Exo 2', sans-serif;
+    margin-top: 20px;
+    padding: 20px 30px;
+
+}
+
+.social,
+.fab {
+    color: aliceblue;
+    margin: 10px;
 }
