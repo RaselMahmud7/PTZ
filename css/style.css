@@ -1,0 +1,19 @@
+/*  font-family: 'Alef', sans-serif;
+    font-family: 'Audiowide', cursive;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif; */
+.nav-title{
+   
+    font-family: 'Orbitron', sans-serif;
+    font-size: 28px;
+}
+#bg-logo{
+    background:#fff;
+    padding: 2px;
+    border-radius: 25px;
+}
+.fas{
+    margin-right: 3px;
+    text-align: center;
+}
